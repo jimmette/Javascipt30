@@ -1,0 +1,31 @@
+body {
+  background: #00b386 url("background.png") top left;
+}
+
+#container {
+  width: 80%;
+  height: 80%;
+  text-align: center;
+  padding: 10%;
+}
+
+#titleBar h1 {
+  color: #fff;
+}
+#menuBar {
+  padding-bottom: 40px;
+}
+
+#imgContainer {
+  margin: auto;
+}
+
+#imgBar {
+  margin: auto;
+  background-color: #ff0066;
+  max-width: 500px;
+}
+
+#imgBar img {
+  max-width: 500px;
+}
